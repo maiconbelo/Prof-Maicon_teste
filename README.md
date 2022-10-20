@@ -4,7 +4,7 @@ Teste de utilização do github
 
 ## linguagens utilizadas
 
-#ff69b4 CSS
+CSS
 
 HTML
 
